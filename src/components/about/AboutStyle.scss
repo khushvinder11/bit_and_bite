@@ -1,0 +1,58 @@
+.mantine-dyfpg1 {
+  font-weight: 700;
+  font-size: 36px;
+  color: #333;
+  padding-bottom: 12px;
+  position: relative;
+  margin-top: 0px;
+
+  &::after {
+    content: "";
+    position: absolute;
+    background: linear-gradient(to right, #3ca3c0 0%, #2a7286 100%);
+    height: 4px;
+    width: 60px;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+.mantine-1pbxw0k {
+  font-size: 15px;
+  color: rgb(145, 144, 143);
+  margin: 30px 0;
+}
+
+// Why Choose Us? h3 css
+.mantine-1o492w4 {
+  font-size: 22px;
+  margin: 0 0 20px;
+  color: rgb(78, 77, 77);
+  font-weight: 400;
+}
+
+.mantine-y8kl7v {
+  gap: 16px 78px !important;
+  margin-top: 100px;
+}
+
+.about-image-container {
+  img {
+    width: 100%;
+  }
+}
+
+.mantine-ThemeIcon-root {
+  width: 12px;
+  height: 12px;
+  min-width: unset;
+  min-height: unset;
+  background: linear-gradient(to right, #3ca3c0 0%, #2a7286 100%);
+}
+
+// media screen 465px........
+// @media screen and (max-width: 465px) {
+//   .about-page-body {
+//     padding: 0 12px;
+//   }
+// }

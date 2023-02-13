@@ -1,0 +1,33 @@
+.mantine-Title-root {
+  max-width: 691px;
+  margin: auto;
+  word-spacing: 5px;
+  margin-bottom: 22px;
+  font-weight: 400;
+}
+.mantine-Button-root {
+  background-image: linear-gradient(to right, #3ca3c0 0%, #2a7286 100%);
+  padding: 14px 34px;
+  letter-spacing: 1px;
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  color: white;
+}
+
+// media screen 465px........
+@media screen and (max-width: 465px) {
+  .mantine-Title-root {
+    // text-align: center;
+  }
+
+  .mantine-j66pd7 {
+    text-align: center;
+  }
+
+  .mantine-Button-root {
+    width: 179px;
+    margin: auto;
+  }
+}
